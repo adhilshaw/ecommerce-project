@@ -20,6 +20,10 @@ body{ font-family: 'Raleway', sans-serif;
 .my_footer{
     background-color:#f8f9fa;
     height:60px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
     }
 
 .my_footer p{
